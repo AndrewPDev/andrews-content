@@ -1,6 +1,6 @@
 # **Garry's Mod Lua Addons**
 
-**PLease note that not all of my scripts are on my github, you can view the rest here: https://steamcommunity.com/id/freelancertood/myworkshopfiles
+**Please note that not all of my scripts are on my github, you can view the rest here: https://steamcommunity.com/id/freelancertood/myworkshopfiles
 
 ---
 
